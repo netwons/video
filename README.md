@@ -1,2 +1,2 @@
 # video
-create public_kit
+create video_sharing
